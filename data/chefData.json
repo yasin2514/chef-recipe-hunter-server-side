@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://i.ibb.co/wKtK8GZ/chf-1.png",
+        "chefName": "John Doe",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "description": "John Doe is a highly experienced chef with 10 years of experience in the culinary arts. He has created over 50 delicious recipes that have earned him 1000 likes from his followers."
+    },
+    {
+        "id": 2,
+        "chefPicture": "image2.jpg",
+        "chefName": "Jane Smith",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 30,
+        "likes": 500,
+        "description": "https://i.ibb.co/T4sNpcS/chf-2.png"
+    },
+    {
+        "id": 3,
+        "chefPicture": "image3.jpg",
+        "chefName": "David Lee",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 60,
+        "likes": 1500,
+        "description": "https://i.ibb.co/cw6ct6Z/chf-3.png"
+    },
+    {
+        "id": 4,
+        "chefPicture": "image4.jpg",
+        "chefName": "Sara Garcia",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 40,
+        "likes": 800,
+        "description": "https://i.ibb.co/yNHBp2H/chf-4.png"
+    },
+    {
+        "id": 5,
+        "chefPicture": "image5.jpg",
+        "chefName": "Peter Brown",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 45,
+        "likes": 900,
+        "description": "https://i.ibb.co/ft9kbPw/chf-5.png"
+    },
+    {
+        "id": 6,
+        "chefPicture": "image6.jpg",
+        "chefName": "Emily Davis",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 35,
+        "likes": 600,
+        "description": "https://i.ibb.co/wY7djT0/chf-6.png"
+    }
+]
